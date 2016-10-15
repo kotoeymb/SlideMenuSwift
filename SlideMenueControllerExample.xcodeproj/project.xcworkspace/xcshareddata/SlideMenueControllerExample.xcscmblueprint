@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A6D0B784E39CC1C166E9B66C4EE0053FD4369330",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D342D415F4781D130FAC1C7BC46C3162C9DA7299" : 9223372036854775807,
+    "A6D0B784E39CC1C166E9B66C4EE0053FD4369330" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9DC0BFE1-80E8-4C38-AE58-648C6F9EC61F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D342D415F4781D130FAC1C7BC46C3162C9DA7299" : "",
+    "A6D0B784E39CC1C166E9B66C4EE0053FD4369330" : "SlideMenueControllerExample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SlideMenueControllerExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SlideMenueControllerExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JeffESchmitz\/SlideMenueControllerExample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A6D0B784E39CC1C166E9B66C4EE0053FD4369330"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JeffESchmitz\/SlideMenuController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D342D415F4781D130FAC1C7BC46C3162C9DA7299"
+    }
+  ]
+}
