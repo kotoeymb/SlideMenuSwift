@@ -22,8 +22,9 @@ class ImageHeaderView: UIView {
         self.profileImage.layer.borderWidth = 1
         self.profileImage.layer.borderColor = UIColor.white.cgColor
         self.profileImage.setRandomDownloadImage(80, height: 80)
-        self.backgroundImage.setRandomDownloadImage(Int(self.bounds.size.width), height: 160)
-        
+//        self.backgroundImage.setRandomDownloadImage(Int(self.bounds.size.width), height: 160)
+        self.backgroundImage.image = UIImage(named: "hero")
+    
     }
     
 }

@@ -32,7 +32,7 @@
                             <constraint firstAttribute="trailing" secondItem="2LZ-8h-7zY" secondAttribute="trailing" id="2s7-uA-SyX"/>
                             <constraint firstItem="2LZ-8h-7zY" firstAttribute="bottom" secondItem="QyK-Ti-ddN" secondAttribute="top" id="BLn-bH-feM"/>
                             <constraint firstItem="2LZ-8h-7zY" firstAttribute="leading" secondItem="zsQ-TZ-IZ3" secondAttribute="leading" id="Tzj-E3-dgB"/>
-                            <constraint firstItem="2LZ-8h-7zY" firstAttribute="top" secondItem="X6i-VM-Qqm" secondAttribute="bottom" constant="140" id="hyx-6N-vGB"/>
+                            <constraint firstItem="2LZ-8h-7zY" firstAttribute="top" secondItem="X6i-VM-Qqm" secondAttribute="bottom" constant="160" id="hyx-6N-vGB"/>
                         </constraints>
                     </view>
                     <connections>
