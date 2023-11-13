@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T09:35:10.976Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" version="22.1.0" etag="YshpR9MEYwW1SZjrx4uV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T09:46:34.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="v1HxGH_sfUcal5THy7cW" version="22.1.0" type="github">
   <diagram name="Page-1" id="bgupUvaqJOOFzy98oKY2">
-    <mxGraphModel>
+    <mxGraphModel dx="1134" dy="1741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-1" target="girVR2iWXWBNkfcaLEmQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-1" value="User Panel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-2" target="girVR2iWXWBNkfcaLEmQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-2" target="girVR2iWXWBNkfcaLEmQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-2" value="WareHouse Panel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-3" target="girVR2iWXWBNkfcaLEmQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-3" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-4" value="Mobile App/Web App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-6" value="&amp;nbsp;Web App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-10" value="User DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-90" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-12" value="Stock DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="397" y="17" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-23" target="girVR2iWXWBNkfcaLEmQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-3" target="girVR2iWXWBNkfcaLEmQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-20" value="Read / Write" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-23" value="Read / Write" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-3" target="girVR2iWXWBNkfcaLEmQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="girVR2iWXWBNkfcaLEmQ-27" target="girVR2iWXWBNkfcaLEmQ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-27" value="Auth Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="girVR2iWXWBNkfcaLEmQ-29" value="Main" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="555" width="115" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
